@@ -9,6 +9,8 @@ A Ruby wrapper for the [FullContact API](http://www.fullcontact.com/)
 
 Changes
 -------
+- 0.19.0
+  - Loosen the Faraday plugin to ~> 0.14
 - 0.18.1
   - Always use the token in header even when the option is given as query.
 - 0.18.0
